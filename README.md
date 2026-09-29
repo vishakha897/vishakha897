@@ -74,22 +74,6 @@ A full-stack platform focused on helping users explore and develop startup ideas
 
 ---
 
-### 💡 VentureAI — AI Startup Idea & Business Planner
-
-An AI-powered application designed to help users generate **startup ideas and structured business plans**.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Gemini API
-
----
-
-### 💬 Chat Application
-
-A web-based communication project focused on building real-time style messaging functionality and user interaction.
-
-**Tech:** MERN Stack
-
----
-
 ## 📚 Problem Solving
 
 I’m currently practicing **Data Structures & Algorithms** and solving easy-to-medium programming problems to improve my problem-solving skills.
