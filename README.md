@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishakha Sharma
+# 👋 Hi, Im Vishakha Sharma
 
 ### 💻 B.Tech CSE Student | MERN Stack Developer | AI Enthusiast
 
