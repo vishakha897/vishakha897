@@ -2,7 +2,7 @@
 
 ### 💻 B.Tech CSE Student | MERN Stack Developer | AI Enthusiast
 
-I’m a Computer Science student passionate about building **full-stack web applications, AI-powered solutions, and practical software projects**.
+I’m a Computer Science student passionate about building **full-stack web applications, AI-powered solutions,and practical software projects**.
 
 I enjoy turning ideas into working products and continuously improving my skills through projects, hackathons, and problem solving.
 
