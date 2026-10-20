@@ -3,12 +3,12 @@
 
 # Hi, I'm Vishakha Sharma 👋
 
-### Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
+### 💻 Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
 
-Building practical applications, exploring AI-powered solutions, and learning how complete software systems work.
+Building practical web applications, exploring AI-powered solutions, and solving problems through code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishakha897-181717?style=for-the-badge&logo=github)](https://github.com/vishakha897)
-[![Profile Views](https://komarev.com/ghpvc/?username=vishakha897&style=for-the-badge&color=6C63FF)](https://github.com/vishakha897)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishakha897&style=for-the-badge&color=7C3AED)](https://github.com/vishakha897)
 
 </div>
 
@@ -18,70 +18,48 @@ Building practical applications, exploring AI-powered solutions, and learning ho
 
 Hi! I'm **Vishakha Sharma**, a B.Tech Computer Science student at Arya College of Engineering, Jaipur, India.
 
-I'm interested in building full-stack applications, integrating AI into practical products, and solving programming problems.
+I'm passionate about building full-stack applications, exploring AI integration, and developing practical software projects.
 
-- 💻 Developing applications with the MERN stack.
-- ⚙️ Learning backend development, REST APIs, and database integration.
-- 🤖 Exploring AI-powered applications and AI API integration.
-- 🧩 Practicing Data Structures & Algorithms using Java.
-- 🚀 Building projects and working on hackathon solutions.
-- 🌱 Learning through experimentation, debugging, and hands-on development.
+- 🎓 B.Tech Computer Science student
+- 💻 Focused on MERN Stack Development
+- 🤖 Exploring AI-powered web applications
+- 🧩 Practicing Data Structures & Algorithms using Java
+- 🚀 Building real-world projects and hackathon solutions
+- 🌱 Learning backend development, databases, and software architecture
+- 🤝 Interested in collaborating on useful software projects
 
-I enjoy turning ideas into working software and continuously improving my development skills.
+I enjoy learning by building and turning ideas into working applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Using in My Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mongodb,git,github,vscode,vercel&perline=6)](https://skillicons.dev)
 
-### 🌐 Frontend Development
+**Also working with:** REST APIs · AI API Integration · Cloudinary
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### 🌱 Learning & Practising
 
-### ⚙️ Backend Development
+[![Learning](https://skillicons.dev/icons?i=java,cpp,mysql,python&perline=6)](https://skillicons.dev)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🔧 Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 🤖 AI & Application Development
-
-- AI API integration in web applications
-- AI-assisted business planning
-- Exploring practical AI-powered product features
-- Connecting frontend interfaces with backend services
+**Focus Areas:** Data Structures & Algorithms · Database Management · Backend Development · AI-powered Applications
 
 ---
 
 ## 🧭 What I Work On
 
-| Focus Area | What I'm Building / Learning |
+| Focus Area | What I Build / Learn |
 |---|---|
-| Full-Stack Development | Building applications across frontend, backend, and database layers. |
-| Backend Development | Developing REST APIs and connecting application services. |
-| AI Applications | Exploring ways to integrate AI into practical web products. |
-| Database Design | Working with MongoDB for application data. |
+| Full-Stack Development | Applications connecting frontend, backend, and databases. |
+| Backend Development | REST APIs, authentication, and server-side logic. |
+| AI Applications | Exploring AI integration in practical web products. |
+| Database Design | Working with MongoDB and application data. |
 | Problem Solving | Practicing DSA and coding problems in Java. |
 | Hackathons | Building software solutions under time constraints. |
-| Deployment | Learning how to make applications accessible beyond localhost. |
-| Software Architecture | Understanding how application components work together. |
+| Deployment | Learning to deploy applications for real users. |
+| System Design | Understanding application architecture and component interactions. |
 
 ---
 
@@ -89,18 +67,17 @@ I enjoy turning ideas into working software and continuously improving my develo
 
 ### 🎟️ EventX — Event Registration & Smart Check-in Platform
 
-A full-stack event platform designed to support event registration, QR ticket verification, and smart check-in workflows.
+A full-stack platform for event registration, QR ticket verification, and smart check-in.
 
-**Key features**
-- Event registration and management
+**Features**
+- Event and participant management
 - QR-based ticket verification
-- Check-in workflow
-- Registration and participant management
+- Registration and check-in workflows
 - Role-based application functionality
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · REST APIs
 
-🔗 [View EventX Repository](https://github.com/vishakha897/EventX)
+🔗 [View Repository](https://github.com/vishakha897/EventX)
 
 ---
 
@@ -108,23 +85,23 @@ A full-stack event platform designed to support event registration, QR ticket ve
 
 An AI-powered business planning platform that helps transform startup ideas into structured business plans.
 
-**Project focus**
-- AI-assisted startup planning
-- Full-stack web application development
+**Features**
+- AI-assisted business planning
+- Structured business-plan generation
 - Frontend and backend integration
-- Generating structured business-planning outputs
+- Full-stack application development
 
-**Tech Stack:** React · Node.js · Express.js · MongoDB · AI API integration
+**Tech Stack:** React · Node.js · Express.js · MongoDB · AI API Integration
 
-🔗 [View StartupHub Repository](https://github.com/vishakha897/StartupHub)
+🔗 [View Repository](https://github.com/vishakha897/StartupHub)
 
 ---
 
 ### 📅 Event Management System
 
-A full-stack application for creating accounts, managing events, and organizing event-related activities.
+A full-stack application for creating accounts and managing events.
 
-**Project focus**
+**Features**
 - User registration and login
 - Event creation and management
 - Backend API integration
@@ -132,7 +109,7 @@ A full-stack application for creating accounts, managing events, and organizing 
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB
 
-🔗 [View All My Repositories](https://github.com/vishakha897?tab=repositories)
+🔗 [View Repository](https://github.com/vishakha897/Event-Management-System)
 
 ---
 
@@ -140,10 +117,10 @@ A full-stack application for creating accounts, managing events, and organizing 
 
 A Java-based desktop chat application featuring client-server communication and a graphical user interface.
 
-**Project focus**
+**Features**
 - Client-server communication
 - Desktop application interface
-- Java application development
+- Java programming practice
 
 **Tech Stack:** Java
 
@@ -155,15 +132,15 @@ A Java-based desktop chat application featuring client-server communication and 
 
 I'm interested in understanding how AI can become a useful part of real software products.
 
-| Area | Current Interest |
+| AI Area | What I'm Exploring |
 |---|---|
-| AI-Powered Applications | Adding useful AI capabilities to web applications. |
-| AI API Integration | Connecting AI services with application backends. |
-| Intelligent Business Tools | Exploring AI-assisted business planning and productivity. |
+| AI-Powered Applications | Integrating useful AI features into web applications. |
+| AI API Integration | Connecting AI services with backend systems. |
+| Intelligent Business Tools | AI-assisted startup planning and productivity. |
 | Full-Stack AI Products | Combining frontend, backend, databases, and AI services. |
-| AI Development Workflows | Learning modern approaches to building AI-enabled applications. |
+| AI Development Workflows | Learning modern AI application development approaches. |
 
-My focus is on learning by implementing practical features rather than just experimenting with prompts.
+My goal is to build practical applications that combine software engineering with useful AI capabilities.
 
 ---
 
@@ -171,18 +148,20 @@ My focus is on learning by implementing practical features rather than just expe
 
 I'm practicing Data Structures & Algorithms using Java to strengthen my programming fundamentals.
 
-**Topics I'm practicing**
+**Topics I'm Practicing**
+
 - Arrays and Strings
 - Hashing
 - Searching and Sorting
 - Stack and Queue
 - Linked Lists
 - Recursion
-- Basic algorithms and problem-solving patterns
+- Basic Algorithms
+- Problem-Solving Patterns
 
-🔗 [GitHub DSA Repositories](https://github.com/vishakha897?tab=repositories)
+🔗 [My GitHub Repositories](https://github.com/vishakha897?tab=repositories)
 
-🔗 [Find Me on LeetCode](https://leetcode.com/)
+🔗 [Practice on LeetCode](https://leetcode.com/)
 
 ---
 
@@ -190,11 +169,11 @@ I'm practicing Data Structures & Algorithms using Java to strengthen my programm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishakha897&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishakha897&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakha897&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakha897&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=vishakha897&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=vishakha897&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -213,12 +192,12 @@ I'm practicing Data Structures & Algorithms using Java to strengthen my programm
 ## 🌱 Currently Learning
 
 - Java and Data Structures & Algorithms
-- Full-stack application development
-- Backend APIs and authentication
-- Database integration and design
-- AI API integration
-- Software architecture and system design
-- Application deployment
+- Full-Stack Web Development
+- Backend APIs and Authentication
+- Database Design
+- AI API Integration
+- Software Architecture
+- System Design and Deployment
 
 ---
 
@@ -226,11 +205,11 @@ I'm practicing Data Structures & Algorithms using Java to strengthen my programm
 
 I'm interested in collaborating on:
 
-- MERN stack projects
-- AI-powered web applications
-- Backend development projects
-- Student projects and hackathons
-- Beginner-friendly open-source contributions
+- MERN Stack Projects
+- AI-Powered Applications
+- Backend Development
+- Hackathons and Student Projects
+- Beginner-Friendly Open-Source Projects
 
 ---
 
@@ -239,7 +218,10 @@ I'm interested in collaborating on:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishakha897-181717?style=for-the-badge&logo=github)](https://github.com/vishakha897)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
 
@@ -251,6 +233,6 @@ I'm interested in collaborating on:
 
 Thanks for visiting my profile!
 
-**Keep learning. Keep building. Keep growing.** ⭐
+**Keep Learning · Keep Building · Keep Growing** ⭐
 
 </div>
