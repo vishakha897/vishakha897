@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vishakha Sharma 👋
+# Hi, I'm Vishakha Sharma👋
 
 ### 💻 Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
 
